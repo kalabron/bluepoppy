@@ -1,0 +1,17 @@
+8.1-0.1.0  (Alpha)
+	• Blocks
+		• Added <block?
+	• Items:
+		• Added <item>
+	• Textures:
+		• Added custom texture for <block>
+		• Added custom texture for <item>
+
+	• Recipes
+		• Added Smelting Recipe for <block>
+	• Drops
+		• Added <item> as random drop from Cow
+		• Added <item> as drop from <block>	
+	• Dungeon Changes
+		• Added <item> as a random chance for Dungeon Chests loot
+

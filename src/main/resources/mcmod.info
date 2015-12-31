@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bluepoppy",
+  "name": "Kalabron's template mod",
+  "description": "",
+  "version": "1.8-0.2.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kalabron"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
